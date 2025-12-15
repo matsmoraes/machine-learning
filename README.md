@@ -11,7 +11,8 @@ O diferencial deste projeto é a abordagem teórica: além de utilizar bibliotec
 ## Conteúdo do Repositório
 
 * **[`relatorio_classificaçao.pdf`](relatorio_classificaçao.pdf)**: Relatório completo contendo a análise exploratória, códigos, gráficos e a discussão teórica sobre a performance dos modelos.
-
+* **[`projeto2.qmd`](projeto2.qmd)**: Código-fonte completo em **Quarto**. Contém a implementação dos algoritmos, a análise exploratória (EDA) e a redação técnica misturada com blocos de código R executáveis.
+  
 ## Metodologia e Modelos
 
 O estudo seguiu o pipeline clássico de Ciência de Dados:
@@ -41,7 +42,7 @@ A análise comparativa revelou que a dimensão dos dados é crucial para a separ
 
 Exemplo de dispersão (Scatterplot) demonstrando a separabilidade das espécies baseada no comprimento do bico e massa corporal:
 
-*(Insira aqui uma imagem dos gráficos de dispersão do seu relatório, como a Figura da página 17)*
+<img src="dispersao.png" width="1000">
 
 ---
 
